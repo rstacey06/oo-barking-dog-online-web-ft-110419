@@ -3,3 +3,5 @@ class Dog
     @this_dog_name = dog_name 
   end
 end
+
+def name 
